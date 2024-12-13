@@ -7,7 +7,7 @@
     let profilePicture = "/fotoPerfil.png";
     let notifications = false;
 </script>
-<!--que compruebe que el numero de teléfono tenga los dígitos suficientes, y que el correo tenga la estructura correcta-->
+
 <link rel="stylesheet" href="../public/css/perfilUsuario.css">
 <div class="profile-container">
     <h3>{name}'s Profile</h3>
